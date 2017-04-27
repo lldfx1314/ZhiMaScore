@@ -1,11 +1,11 @@
-####支付宝芝麻分曲线图
-#### 这是从鸿洋的公众号里面改过来的一个  加了区域覆盖  中间线  折线上点的点击事件
+#支付宝芝麻分曲线图
+## 这是从鸿洋大神的公众号里面改过来的一个折线  加了区域覆盖  中间线  具有折线上点的点击事件（原本已有）
 
 #### 改变后的效果图：
 
 ![](https://github.com/lldfx1314/ZhiMaScore/blob/master/demo1.png)
 
-####效果图：
+####改变前的效果图：
 
 ![](https://raw.githubusercontent.com/FelixLee0527/ZhiMaScoreCurve/master/Demo.png)
 
