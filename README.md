@@ -3,7 +3,7 @@
 
 #### 改变后的效果图：
 
-![](https://raw.githubusercontent.com/FelixLee0527/ZhiMaScoreCurve/master/Demo1.png)
+![](https://github.com/lldfx1314/ZhiMaScore/blob/master/demo1.png)
 
 ####效果图：
 
